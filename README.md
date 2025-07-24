@@ -12,7 +12,7 @@ An expressive robotic head designed for research, prototyping, and interactive a
 - Easy-to-follow circuit diagrams and pin assignments
 
 
-#Hardware Overview
+#aHardware Overview
 
 - Microcontrollers: 3× Raspberry Pi Pico (MicroPython)
 - Servos: Over 25 PWM-controlled micro servos
