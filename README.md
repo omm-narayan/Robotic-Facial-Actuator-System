@@ -19,4 +19,5 @@ An expressive robotic head designed for research, prototyping, and interactive a
 - Power: Regulated 5V power supply for servo stability
 - Pin mapping for each module board
 
-
+## 3D files
+https://tinyurl.com/5545hr99
